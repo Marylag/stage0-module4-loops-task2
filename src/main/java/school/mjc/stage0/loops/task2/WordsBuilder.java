@@ -6,6 +6,6 @@ public class WordsBuilder {
         for (char ch : chars) {
             phrase.append(ch);
         }
-        System.out.println(phrase.toString());
+        System.out.print(phrase.toString());
     }
 }
